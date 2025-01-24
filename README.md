@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
@@ -34,3 +35,7 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+=======
+# 7dayhackathon_code
+This contains all the code that I wrote for my custom template. The website is built using next js 15, sanity, stripe,and  clerk . It was a very enjoyable journey throughout Q2 especially through this last hackathon. I am highly grateful to Sir Ameen Alam, Sir Hamza Syed and all of our faculty members to make this happen, Thank you everyone!.  
+>>>>>>> 646b96c8d9ca81764c4ae404be766816db186a7a
