@@ -31,12 +31,7 @@ export function Navbar() {
             <Link href="/faq" className="text-gray-700 hover:text-purple-600">
               FAQ
             </Link>
-            <Link
-              href="/compare"
-              className="text-gray-700 hover:text-purple-600"
-            >
-              Compare
-            </Link>
+  
           </div>
           <div className="flex items-center space-x-4">
             <SignedIn>
